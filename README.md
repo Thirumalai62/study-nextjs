@@ -38,6 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 1. Routing with pages: Done
 2. Nested Routes: Done
 3. Dynamic Routes: Done
-4. Catch All Routes
-5. Navigate from UI
-6. Programmatically navigation b/w pages
+4. Catch All Routes: Done
+5. Navigate from UI: Done
+6. Programmatically navigation b/w pages: Done
